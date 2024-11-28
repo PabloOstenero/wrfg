@@ -1,1 +1,0 @@
-# ID_POR_my_calculator
